@@ -33,16 +33,21 @@ The plugin can be use just by installing it by wordpress admin or upload manuall
 = How to use plugin on page or posts ? =
 use [wplfta_login_form] shortcode in page, post or widget.
 
-For more visit blog [wplfta_login_form](https://ajaysharma3085006.wordpress.com/ ,"wplfta_login_form")
+For more visit blog [wplfta_login_form](https://ajaysharma3085006.wordpress.com/ "wplfta_login_form")
+
 
 == Screenshots ==
 
 1. User view after installation
+
 2. Admin setting page
 
 == Changelog ==
 = 0.1 =
 Login form to anywhere
+
+
 == Upgrade Notice ==
+
 = 0.2 =
 add validation options
